@@ -1,0 +1,6 @@
+E:\TUTORIAS CÍCERO\Client Rest\ConsoleClientRest\ConsoleClientRest\bin\Debug\ConsoleClientRest.exe.config
+E:\TUTORIAS CÍCERO\Client Rest\ConsoleClientRest\ConsoleClientRest\bin\Debug\ConsoleClientRest.exe
+E:\TUTORIAS CÍCERO\Client Rest\ConsoleClientRest\ConsoleClientRest\bin\Debug\ConsoleClientRest.pdb
+E:\TUTORIAS CÍCERO\Client Rest\ConsoleClientRest\ConsoleClientRest\obj\Debug\ConsoleClientRest.csprojResolveAssemblyReference.cache
+E:\TUTORIAS CÍCERO\Client Rest\ConsoleClientRest\ConsoleClientRest\obj\Debug\ConsoleClientRest.exe
+E:\TUTORIAS CÍCERO\Client Rest\ConsoleClientRest\ConsoleClientRest\obj\Debug\ConsoleClientRest.pdb
